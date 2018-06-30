@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "outlook": "Sunny",
+    "temperature": "Hot",
+    "humidity": "High",
+    "windy": "Weak",
+    "play": "No"
+  },
+  {
+    "id": "2",
+    "outlook": "Sunny",
+    "temperature": "Hot",
+    "humidity": "High",
+    "windy": "Strong",
+    "play": "No"
+  },
+  {
+    "id": "3",
+    "outlook": "Overcast",
+    "temperature": "Hot",
+    "humidity": "High",
+    "windy": "Weak",
+    "play": "Yes"
+  },
+  {
+    "id": "4",
+    "outlook": "Rainy",
+    "temperature": "Mild",
+    "humidity": "High",
+    "windy": "Weak",
+    "play": "Yes"
+  },
+  {
+    "id": "5",
+    "outlook": "Rainy",
+    "temperature": "Cool",
+    "humidity": "Normal",
+    "windy": "Weak",
+    "play": "Yes"
+  },
+  {
+    "id": "6",
+    "outlook": "Rainy",
+    "temperature": "Cool",
+    "humidity": "Normal",
+    "windy": "Strong",
+    "play": "No"
+  },
+  {
+    "id": "7",
+    "outlook": "Overcast",
+    "temperature": "Cool",
+    "humidity": "Normal",
+    "windy": "Strong",
+    "play": "Yes"
+  },
+  {
+    "id": "8",
+    "outlook": "Sunny",
+    "temperature": "Mild",
+    "humidity": "High",
+    "windy": "Weak",
+    "play": "No"
+  },
+  {
+    "id": "9",
+    "outlook": "Sunny",
+    "temperature": "Cool",
+    "humidity": "Normal",
+    "windy": "Weak",
+    "play": "Yes"
+  },
+  {
+    "id": "10",
+    "outlook": "Rainy",
+    "temperature": "Mild",
+    "humidity": "Normal",
+    "windy": "Weak",
+    "play": "Yes"
+  },
+  {
+    "id": "11",
+    "outlook": "Sunny",
+    "temperature": "Mild",
+    "humidity": "Normal",
+    "windy": "Strong",
+    "play": "Yes"
+  },
+  {
+    "id": "12",
+    "outlook": "Overcast",
+    "temperature": "Mild",
+    "humidity": "High",
+    "windy": "Strong",
+    "play": "Yes"
+  },
+  {
+    "id": "13",
+    "outlook": "Overcast",
+    "temperature": "Hot",
+    "humidity": "Normal",
+    "windy": "Weak",
+    "play": "Yes"
+  },
+  {
+    "id": "14",
+    "outlook": "Rainy",
+    "temperature": "Mild",
+    "humidity": "High",
+    "windy": "Strong",
+    "play": "No"
+  }
+]
