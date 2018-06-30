@@ -1,7 +1,13 @@
 const entropy = (data) => {
-  let result = 0
+  let result = 0,
+      total = 0
   for (const iterator of Object.keys(data)) {
-    result = result +  ((-data[iterator] / (data.yes + data.no)) * Math.log2(data[iterator] / (data.yes + data.no)))
+    total += data[iterator]
+  }
+  for (const iterator of Object.keys(data)) {
+    if ( data[iterator] > 0 ) {
+      result += ((-data[iterator] / total) * Math.log2(data[iterator] / total))
+    }
   }
   return parseFloat(result)
 }
